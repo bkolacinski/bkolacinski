@@ -7,7 +7,7 @@ IT student at Lodz University of Technology
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bkolacinski&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bkolacinski&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bkolacinski&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bkolacinski&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bkolacinski&limit=5&theme=dark&combine_all_yearly_contributions=true)
